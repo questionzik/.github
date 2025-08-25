@@ -13,7 +13,7 @@
 ## 📚 Table des matières / Table of Contents
 
 - [🇫🇷 Français](#-français)
-- [🇬🇧 English](#-english)
+- [🇺🇸 English](#-english)
 
 ---
 
@@ -51,7 +51,7 @@ Dans le respect des conditions d'utilisation de Deezer (usage non-commercial), l
 
 ---
 
-## 🇬🇧 English
+## 🇺🇸 English
 
 ### 🎵 What is QuestionZik?
 
